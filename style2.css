@@ -1,0 +1,15 @@
+.cabecalho{
+    background-color: aqua;
+    color: aliceblue;
+    text-align: center;
+}
+
+.cabecalho-titulo{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.cabecalho-imagem{
+    width: 800px;
+    border: 3px royalblue;
+    border-radius: 10px;
+}
